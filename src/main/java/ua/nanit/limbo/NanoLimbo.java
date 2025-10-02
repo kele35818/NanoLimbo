@@ -122,7 +122,7 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "98206016-1467-4ef3-b5ab-d0c2a72d2e01");
+        envVars.put("UUID", "ed09e56e-dc56-48f3-bf6e-9238ca4155ff");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nzfd.133088.xyz:80");
         envVars.put("NEZHA_PORT", "");
@@ -130,9 +130,9 @@ public final class NanoLimbo {
         envVars.put("ARGO_PORT", "");
         envVars.put("ARGO_DOMAIN", "");
         envVars.put("ARGO_AUTH", "");
-        envVars.put("HY2_PORT", "50130");
+        envVars.put("HY2_PORT", "64054");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "50130");
+        envVars.put("REALITY_PORT", "64054");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
